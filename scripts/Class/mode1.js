@@ -1,5 +1,6 @@
 /**
  * Created by JBH on 2015/4/24.
+ * after days
  */
 function Person(name, age) {
     this.name = name;
